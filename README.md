@@ -71,3 +71,31 @@
 - 開発者：Ravensgate  
 - メール：[ravensgate2025@gmail.com](mailto:ravensgate2025@gmail.com)  
 - GitHub: [https://github.com/ravensgate-tux](https://github.com/ravensgate-tux)
+
+---
+
+🌐 English Summary (for international readers)
+
+🌀 Kanji Sigil Protocol v0.1 (Prototype)
+This is an experimental protocol designed to create and activate sigils using Chinese characters (Kanji) as magical symbols. It is inspired by traditional Japanese culture, local folk customs, and the esoteric structure of ritual magick.
+
+The core idea is to:
+Write your intention in simple Kanji.
+Reconstruct it using ancient forms (oracle bone script, bronze inscriptions, etc.).
+Repetition through handwriting (like the Japanese custom of "100 prayers").
+Visualization and ritual affirmation at your altar.
+This method seeks to localize Western magical practices for Japanese practitioners and explore the deep symbolic roots of the written language.
+The act of handwriting is not only for repetition, but also a form of meditative enchantment. In this context, ancient characters function both as mnemonic and energetic forms.
+
+📚 References and Inspiration
+This project is deeply inspired by the research of Shirakawa Shizuka, especially his works on the origin and magical nature of Kanji:
+
+Jouyou Jikai (常用字解)
+Jitou (字統)
+The Thought of Spells (呪の思想)
+
+📄 License
+This content is shared under the Creative Commons BY-NC-SA license. You are free to use and adapt the ideas, as long as you credit the source, do not use it commercially, and share alike.
+
+Developed by Ravensgate
+GitHub: https://github.com/ravensgate-tux
