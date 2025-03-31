@@ -29,7 +29,7 @@
 ## ✍️ 例：願い「転職成功」  
 以下は「転職成功」をテーマにした試作シジルです：
 
-![転職成功のシジル](images/jobchange_success_sample.png)
+![転職成功のシジル](jobchange_success_sample.png)
 
 ---
 
