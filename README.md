@@ -118,6 +118,8 @@ Jouyou Jikai (常用字解)
 Jitou (字統)
 The Thought of Spells (呪の思想)
 
+---
+
 📄 License
 
 © 2025 知られざる呪術師（Le Sorcier Inconnu）  
