@@ -119,7 +119,6 @@ Jitou (字統)
 The Thought of Spells (呪の思想)
 
 📄 License
-This content is shared under the Creative Commons BY-NC-SA license. You are free to use and adapt the ideas, as long as you credit the source, do not use it commercially, and share alike.
 
-Developed by Ravensgate
-GitHub: https://github.com/ravensgate-tux
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
