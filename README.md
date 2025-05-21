@@ -91,13 +91,6 @@
 
 ---
 
-## 💬 開発と問合せ  
-- 開発者：Ravensgate  
-- メール：[ravensgate2025@gmail.com](mailto:ravensgate2025@gmail.com)  
-- GitHub: [https://github.com/ravensgate-tux](https://github.com/ravensgate-tux)
-
----
-
 🌐 English Summary (for international readers)
 
 🌀 Kanji Sigil Protocol v0.1 (Prototype)
